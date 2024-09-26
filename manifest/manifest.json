@@ -1,0 +1,22 @@
+{
+	"icons": [
+		{
+			"src": "logo.svg",
+			"type": "image/svg+xml",
+			"sizes": "any",
+			"purpose": "any"
+		},
+		{
+			"src": "logo-monochrome.svg",
+			"type": "image/svg+xml",
+			"sizes": "any",
+			"purpose": "monochrome"
+		},
+		{
+			"src": "logo-maskable.svg",
+			"type": "image/svg+xml",
+			"sizes": "any",
+			"purpose": "maskable"
+		}
+	]
+}
